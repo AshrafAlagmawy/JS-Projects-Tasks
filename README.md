@@ -1,2 +1,2 @@
-# JS-Projects-Tasks
+# JS Projects Tasks
 JavaScript Projects 
