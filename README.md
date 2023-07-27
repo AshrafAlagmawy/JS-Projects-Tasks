@@ -4,3 +4,4 @@
 |  Project Number  |            Project Name             | Live Demo |
 | :-: | :----------------------------: | :-------: |
 | Project 01  |       [Expanding Card](https://github.com/ashrafemad097/JS-Projects-Tasks/tree/main/Project%2001/Expanding%20Cards)       | [Live Demo](https://expandiing-cards.netlify.app/)  |
+| Project 02  |       [Counter](https://github.com/ashrafemad097/JS-Projects-Tasks/tree/main/Project%2002/Counter)       | [Live Demo](https://coounterr.netlify.app/)  |
